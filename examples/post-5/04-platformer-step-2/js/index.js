@@ -11,8 +11,8 @@ import MainScene from "./main-scene.js";
 
 const config = {
   type: Phaser.AUTO,
-  width: 800,
-  height: 600,
+  width: 1200,
+  height: 700,
   backgroundColor: "#000c1f",
   parent: "game-container",
   scene: MainScene,
