@@ -1,9 +1,25 @@
 import Player from "./player.js";
 import createRotatingPlatform from "./create-rotating-platform.js";
 
+//From https://html-online.com/articles/get-url-parameters-javascript/
+function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+
 export default class MainScene extends Phaser.Scene {
   preload() {
-    this.load.tilemapTiledJSON("map", "../assets/tilemaps/level.json");
+
+    // const query = new URLSearchParams(this.props.location.search);
+    // const level_param = query.get('level')
+
+    const url_params = getUrlVars();
+    const level_param = url_params["level"];
+
+    this.load.tilemapTiledJSON("map", "../assets/tilemaps/"+level_param+".json");
     this.load.image(
       "kenney-tileset-64px-extruded",
       "../assets/tilesets/kenney-tileset-64px-extruded.png"
