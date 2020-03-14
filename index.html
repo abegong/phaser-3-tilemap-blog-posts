@@ -30,6 +30,10 @@
       
       .level-box{
         display: inline-block;
+
+        width: 240px;
+        height: 80px;
+
         margin: 10px;
         padding: 20px;
         border: 2px solid black;
@@ -104,7 +108,7 @@
           var $new_div = $("#level-box-example").clone();
           
           $new_div
-            .attr("data-filename", level)
+            .attr("data-filename", level.filename)
             .attr("data-id", i)
           $(".level-name", $new_div).html(level.name);
           $(".level-desc", $new_div).html(level.description);
@@ -115,6 +119,13 @@
         };
         
         $("#level-box-example").hide();
+
+        $("#play-btn").click(function(){
+          if($(this).hasClass("ready")){
+            level_param = $(".my-selected").attr("data-filename");
+            open("examples/post-5/04-platformer-step-2/index.html?level="+level_param);
+          }
+        });
       })
     </script>
   </head>
