@@ -1,0 +1,128 @@
+<html>
+  <head>
+    <style>
+      body {
+        font-family: sans-serif;
+      }
+      
+      #play-btn{
+/*        position: absolute;*/
+        
+        margin: 5px;
+        padding: 5px;
+        border: 2px solid black;
+        border-radius: 10px;        
+
+        font-size: 24px;
+        text-align: center;
+        width: 120px;
+        
+        transition: all .5s ease;
+      }
+      .ready{
+        background-color: #bbf;
+        cursor: pointer;
+      }
+      
+      #levels{
+        margin-top: 50px;
+      }
+      
+      .level-box{
+        display: inline-block;
+        margin: 10px;
+        padding: 20px;
+        border: 2px solid black;
+        border-radius: 10px;
+        
+        cursor: pointer;
+        
+        transition: all .3s ease;
+      }
+      .level-box:hover{
+        border: 4px solid black;
+        padding: 18px;
+      }
+      .my-selected{
+        border: 4px solid black;
+        background-color: #bbf;
+        padding: 18px;
+      }
+      .level-name{
+        font-size: 24px;
+      }
+      .level-desc{
+        padding: 5px;
+      }
+    </style>
+    <script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+    <script>
+      var selected_level = null;
+      var levels = [{
+        "name" : "Jonah's level 1",
+        "description" : "A hard level with lots of jumping",
+        "filename" : "jonah-level-1.json"
+      },{
+        "name" : "Addy's level 1",
+        "description" : "A hard level with lots of jumping",
+        "filename" : "jonah-level-1.json"
+      },{
+        "name" : "Eden's level 1",
+        "description" : "A hard level with lots of jumping",
+        "filename" : "jonah-level-1.json"
+      },{
+        "name" : "Eden's level 2",
+        "description" : "A hard level with lots of jumping",
+        "filename" : "jonah-level-1.json"
+      },{
+        "name" : "Jonah's level 2",
+        "description" : "A hard level with lots of jumping",
+        "filename" : "jonah-level-1.json"
+      }]
+
+      function toggleSelectLevel(level){
+        $(this).toggleClass("my-selected");
+        if($(this).hasClass("my-selected")){
+          $("#play-btn").addClass("ready");
+          $(".level-box").removeClass("my-selected")
+          $(this).addClass("my-selected")
+        } else {
+          $("#play-btn").removeClass("ready");
+        }
+      }
+      
+      $(document).ready(function(){
+        for(i in levels){
+          var level = levels[i];
+          var $new_div = $("#level-box-example").clone();
+          
+          $new_div
+            .attr("data-filename", level)
+            .attr("data-id", i)
+          $(".level-name", $new_div).html(level.name);
+          $(".level-desc", $new_div).html(level.description);
+          
+          $new_div.click(toggleSelectLevel);
+          
+          $("#levels").append($new_div);
+        };
+        
+        $("#level-box-example").hide();
+      })
+    </script>
+  </head>
+  <body>
+    <div id="main">
+      <div id="play-btn">Play</div>
+      <div id="levels" >
+        <div id="level-box-example" class="level-box" data-filename="" data-id="">
+          <div class="level-name"></div>
+          <div class="level-desc"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
