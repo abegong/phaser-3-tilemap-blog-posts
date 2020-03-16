@@ -25,7 +25,7 @@ export default class Player {
 
     // Create the physics-based sprite that we will move around and animate
     this.sprite = scene.matter.add.sprite(0, 0, "player", 0);
-    this.sprite.alpha = .01;
+    this.sprite.alpha = .01; // FIXME: The old sprite isn't gone, just hidden
 
     // The player's body is going to be a compound body that looks something like this:
     //
@@ -51,7 +51,7 @@ export default class Player {
     const { Body, Bodies } = Phaser.Physics.Matter.Matter; // Native Matter modules
     // const { width: w, height: h } = this.sprite;
     const w = 32;
-    const h = 64;
+    const h = 52;
     console.log( w, h );
     const mainBody = Bodies.rectangle(0, 0, w * 0.6, h, { chamfer: { radius: 10 } });
     this.sensors = {
@@ -188,7 +188,7 @@ export default class Player {
       });
     }
 
-    this.spine_char.setPosition(this.sprite.x, this.sprite.y+64);
+    this.spine_char.setPosition(this.sprite.x, this.sprite.y+52);
 
     // Update the animation/texture based on the state of the player's state
     if (isOnGround) {
