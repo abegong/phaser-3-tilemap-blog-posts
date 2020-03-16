@@ -88,7 +88,7 @@ export default class MainScene extends Phaser.Scene {
       // Tiled origin for coordinate system is (0, 1), but we want (0.5, 0.5)
       this.matter.add
         .image(x + width / 2, y - height / 2, "block")
-        .setBody({ shape: "rectangle", density: 0.001 });
+        .setBody({ shape: "rectangle", density: 0.01 });
     });
 
     // Create platforms at the point locations in the "Platform Locations" layer created in Tiled
@@ -253,7 +253,7 @@ export default class MainScene extends Phaser.Scene {
     this.unsubscribeCelebrate();
 
     // Drop some heart-eye emojis, of course
-    for (let i = 0; i < 35; i++) {
+    for (let i = 0; i < 100; i++) {
       const x = this.player.sprite.x + Phaser.Math.RND.integerInRange(-50, 50);
       const y = this.player.sprite.y - 150 + Phaser.Math.RND.integerInRange(-10, 10);
       this.matter.add

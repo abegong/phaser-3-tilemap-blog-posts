@@ -21,7 +21,7 @@ export default class Player {
   
     this.spine_char = scene.add.spine(x, y, 'skeleton', 'idle', true).setScale(0.15);
     this.spine_char.setSkin(null)
-    this.spine_char.setSkinByName('TurboTed');
+    this.spine_char.setSkinByName('DuckMatthews');
 
     // Create the physics-based sprite that we will move around and animate
     this.sprite = scene.matter.add.sprite(0, 0, "player", 0);
