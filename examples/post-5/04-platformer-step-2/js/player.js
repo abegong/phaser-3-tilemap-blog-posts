@@ -18,14 +18,13 @@ export default class Player {
       frameRate: 12,
       repeat: -1
     });
+  
+    this.spine_char = scene.add.spine(x, y, 'skeleton', 'idle', true).setScale(0.15);
+    this.spine_char.setSkin(null)
+    this.spine_char.setSkinByName('Dummy')
 
     // Create the physics-based sprite that we will move around and animate
     this.sprite = scene.matter.add.sprite(0, 0, "player", 0);
-
-    // this.sprite = scene.add.spine(0, 0, 'skeleton', 'idle', true).setScale(0.15);
-    // this.sprite.setSkin(null)
-    // this.sprite.setSkinByName('Dummy')
-
 
     // The player's body is going to be a compound body that looks something like this:
     //
@@ -149,6 +148,7 @@ export default class Player {
 
     if (isLeftKeyDown) {
       sprite.setFlipX(true);
+      this.spine_char.setScale(-0.15, 0.15)
 
       // Don't let the player push things left if they in the air
       if (!(isInAir && this.isTouching.left)) {
@@ -156,6 +156,7 @@ export default class Player {
       }
     } else if (isRightKeyDown) {
       sprite.setFlipX(false);
+      this.spine_char.setScale(0.15, 0.15)
 
       // Don't let the player push things right if they in the air
       if (!(isInAir && this.isTouching.right)) {
@@ -183,13 +184,30 @@ export default class Player {
       });
     }
 
+    this.spine_char.setPosition(this.sprite.x, this.sprite.y+32)
+
     // Update the animation/texture based on the state of the player's state
     if (isOnGround) {
-      if (sprite.body.force.x !== 0) sprite.anims.play("player-run", true);
-      else sprite.anims.play("player-idle", true);
+      if (sprite.body.force.x !== 0) {
+        sprite.anims.play("player-run", true);
+        if( this.spine_char.getCurrentAnimation().name != "run"){
+          console.log(this.spine_char.getCurrentAnimation())
+          this.spine_char.play("run", true);  
+        }
+      }
+      else {
+        sprite.anims.play("player-idle", true);
+        if( this.spine_char.getCurrentAnimation().name != "idle"){
+          this.spine_char.play("idle", true);
+        }
+      }
     } else {
       sprite.anims.stop();
       sprite.setTexture("player", 10);
+
+      if( this.spine_char.getCurrentAnimation().name != "jump2"){
+        this.spine_char.play("jump2", true);
+      }
     }
   }
 

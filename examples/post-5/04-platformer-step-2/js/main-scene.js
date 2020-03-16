@@ -216,18 +216,18 @@ export default class MainScene extends Phaser.Scene {
       'TurboTed-Green',
       'YoungBuck'
     ];
-    for(var i=0; i<50; i++){
-      var skin = hero_skins[Math.floor(Math.random()*hero_skins.length)];
-      var animation = hero_animations[Math.floor(Math.random()*hero_animations.length)];
+    // for(var i=0; i<5; i++){
+    //   var skin = hero_skins[Math.floor(Math.random()*hero_skins.length)];
+    //   var animation = hero_animations[Math.floor(Math.random()*hero_animations.length)];
 
-      var hero = this.add.spine(
-        x+Math.round(Math.random()*2000),
-        y+Math.round(Math.random()*500-200),
-        'skeleton', animation, true
-      ).setScale(0.15);
-      hero.setSkin(null)
-      hero.setSkinByName(skin);
-    }
+    //   var hero = this.add.spine(
+    //     x+Math.round(Math.random()*2000),
+    //     y+Math.round(Math.random()*500-200),
+    //     'skeleton', animation, true
+    //   ).setScale(0.15);
+    //   hero.setSkin(null)
+    //   hero.setSkinByName(skin);
+    // }
   }
 
   onPlayerCollide({ gameObjectB }) {
