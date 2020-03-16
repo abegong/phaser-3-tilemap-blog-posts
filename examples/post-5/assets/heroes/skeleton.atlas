@@ -1,0 +1,7128 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Assassin/Assassin_arm_lower_far
+  rotate: false
+  xy: 121, 299
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_arm_lower_near
+  rotate: false
+  xy: 1542, 451
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_foot_far_1
+  rotate: false
+  xy: 1576, 1246
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_foot_far_2_bent
+  rotate: false
+  xy: 2, 819
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_foot_near_1
+  rotate: false
+  xy: 1740, 1233
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_foot_near_2_bent
+  rotate: false
+  xy: 652, 800
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_hand_far_1_fistBack
+  rotate: false
+  xy: 104, 1632
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_hand_far_2_fistPalm
+  rotate: false
+  xy: 208, 1631
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_hand_far_3_open
+  rotate: false
+  xy: 1797, 643
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_hand_near_1_fistBack
+  rotate: false
+  xy: 312, 1631
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_hand_near_2_fistPalm
+  rotate: false
+  xy: 416, 1628
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_hand_near_3_open
+  rotate: false
+  xy: 1797, 531
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_leg_lower_far
+  rotate: true
+  xy: 1266, 869
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_leg_lower_near_1
+  rotate: true
+  xy: 1431, 861
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_leg_lower_near_2
+  rotate: true
+  xy: 1596, 854
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_leg_upper_far
+  rotate: true
+  xy: 1904, 1232
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_leg_upper_near
+  rotate: true
+  xy: 1150, 1168
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_machineGun_clip
+  rotate: false
+  xy: 1926, 722
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_machineGun_clip
+  rotate: false
+  xy: 1926, 722
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_machineGun_clip
+  rotate: false
+  xy: 1926, 722
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+Template/Template_machineGun_clip
+  rotate: false
+  xy: 1926, 722
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_neck
+  rotate: false
+  xy: 1701, 1900
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_waist
+  rotate: false
+  xy: 144, 188
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_arm_lower_far
+  rotate: false
+  xy: 1900, 299
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_arm_lower_far
+  rotate: false
+  xy: 1900, 299
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_arm_lower_near
+  rotate: false
+  xy: 2, 413
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_foot_far_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_foot_near_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_foot_far_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_foot_near_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_foot_far_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_foot_near_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_foot_far_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_foot_near_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_foot_far_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_foot_near_1
+  rotate: false
+  xy: 2, 1203
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_foot_far_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_foot_near_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_foot_far_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_foot_near_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_foot_far_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_foot_near_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_foot_far_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_foot_near_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_foot_far_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_foot_near_2_bent
+  rotate: false
+  xy: 2, 719
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_hand_far_1_fistBack
+  rotate: false
+  xy: 520, 1624
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_hand_far_2_fistPalm
+  rotate: false
+  xy: 624, 1623
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_hand_far_3_open
+  rotate: false
+  xy: 1673, 445
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_hand_near_3_open
+  rotate: false
+  xy: 1673, 445
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_hand_far_3_open
+  rotate: false
+  xy: 1673, 445
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_hand_near_3_open
+  rotate: false
+  xy: 1673, 445
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_hand_far_3_open
+  rotate: false
+  xy: 1673, 445
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_hand_near_3_open
+  rotate: false
+  xy: 1673, 445
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_hand_far_3_open
+  rotate: false
+  xy: 1673, 445
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_hand_near_3_open
+  rotate: false
+  xy: 1673, 445
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_hand_near_1_fistBack
+  rotate: false
+  xy: 728, 1623
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_hand_near_2_fistPalm
+  rotate: false
+  xy: 832, 1621
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_leg_lower_far
+  rotate: true
+  xy: 1761, 854
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_leg_lower_near_1
+  rotate: true
+  xy: 157, 809
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_leg_lower_near_2
+  rotate: true
+  xy: 1264, 1905
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_leg_upper_far
+  rotate: true
+  xy: 1288, 1167
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_leg_upper_near
+  rotate: true
+  xy: 1426, 1158
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_machineGun_clip
+  rotate: false
+  xy: 1492, 960
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_neck
+  rotate: false
+  xy: 1768, 1900
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_neck
+  rotate: false
+  xy: 1768, 1900
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_neck
+  rotate: false
+  xy: 1768, 1900
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_waist
+  rotate: false
+  xy: 288, 187
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_arm_lower_far
+  rotate: false
+  xy: 253, 298
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_arm_lower_near
+  rotate: false
+  xy: 133, 406
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_hand_far_1_fistBack
+  rotate: false
+  xy: 936, 1620
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_hand_far_2_fistPalm
+  rotate: false
+  xy: 1040, 1616
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_hand_near_1_fistBack
+  rotate: false
+  xy: 1144, 1612
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_hand_near_2_fistPalm
+  rotate: false
+  xy: 1248, 1610
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_hand_far_2_fistPalm
+  rotate: false
+  xy: 1248, 1610
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_leg_lower_far
+  rotate: true
+  xy: 322, 808
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_leg_lower_near_2
+  rotate: true
+  xy: 322, 808
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_leg_lower_far
+  rotate: true
+  xy: 322, 808
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_leg_lower_near_2
+  rotate: true
+  xy: 322, 808
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_leg_lower_near_1
+  rotate: true
+  xy: 487, 807
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_leg_upper_far
+  rotate: true
+  xy: 1728, 1142
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_leg_upper_far
+  rotate: true
+  xy: 1728, 1142
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_leg_upper_far
+  rotate: true
+  xy: 1728, 1142
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_leg_upper_far
+  rotate: true
+  xy: 1728, 1142
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_leg_upper_near
+  rotate: true
+  xy: 1866, 1141
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_leg_upper_near
+  rotate: true
+  xy: 1866, 1141
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_leg_upper_near
+  rotate: true
+  xy: 1866, 1141
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_leg_upper_near
+  rotate: true
+  xy: 1866, 1141
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_neck
+  rotate: false
+  xy: 194, 2007
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_waist
+  rotate: false
+  xy: 432, 177
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_waist
+  rotate: false
+  xy: 432, 177
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_waist
+  rotate: false
+  xy: 432, 177
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_waist
+  rotate: false
+  xy: 432, 177
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_waist
+  rotate: false
+  xy: 432, 177
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_arm_lower_far
+  rotate: false
+  xy: 385, 297
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_arm_lower_far
+  rotate: false
+  xy: 385, 297
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_arm_lower_near
+  rotate: false
+  xy: 1911, 406
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_arm_lower_near
+  rotate: false
+  xy: 1911, 406
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_foot_far_1
+  rotate: false
+  xy: 166, 1198
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_foot_near_1
+  rotate: false
+  xy: 166, 1198
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_hand_far_1_fistBack
+  rotate: false
+  xy: 1352, 1605
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_hand_far_2_fistPalm
+  rotate: false
+  xy: 1456, 1600
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_hand_far_3_open
+  rotate: false
+  xy: 1792, 419
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_hand_near_3_open
+  rotate: false
+  xy: 1792, 419
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_hand_far_3_open
+  rotate: false
+  xy: 1792, 419
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_hand_near_1_fistBack
+  rotate: false
+  xy: 1560, 1599
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_hand_near_1_fistBack
+  rotate: false
+  xy: 1560, 1599
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_hand_near_2_fistPalm
+  rotate: false
+  xy: 1664, 1590
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_leg_lower_far
+  rotate: true
+  xy: 936, 782
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_leg_lower_near_2
+  rotate: true
+  xy: 936, 782
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_leg_lower_near_1
+  rotate: true
+  xy: 1101, 775
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_leg_upper_far
+  rotate: true
+  xy: 2, 1112
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_leg_upper_near
+  rotate: true
+  xy: 2, 1112
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_neck
+  rotate: false
+  xy: 1894, 1897
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_arm_lower_far
+  rotate: false
+  xy: 1916, 617
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_arm_lower_near
+  rotate: true
+  xy: 5, 2009
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_foot_far_1
+  rotate: false
+  xy: 1247, 1348
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_foot_near_1
+  rotate: false
+  xy: 1247, 1348
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_foot_far_2_bent
+  rotate: false
+  xy: 1047, 979
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_foot_near_2_bent
+  rotate: false
+  xy: 1047, 979
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_hand_far_1_fistBack
+  rotate: false
+  xy: 1099, 1698
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_hand_near_1_fistBack
+  rotate: false
+  xy: 1099, 1698
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_hand_far_2_fistPalm
+  rotate: false
+  xy: 1201, 1694
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_hand_near_2_fistPalm
+  rotate: false
+  xy: 1201, 1694
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_hand_far_3_open
+  rotate: false
+  xy: 526, 398
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_hand_far_3_open
+  rotate: false
+  xy: 526, 398
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_hand_far_3_open
+  rotate: false
+  xy: 526, 398
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_hand_far_3_open
+  rotate: false
+  xy: 526, 398
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Template/Template_hand_far_3_open
+  rotate: false
+  xy: 526, 398
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_hand_near_3_open
+  rotate: true
+  xy: 1169, 353
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_hand_near_3_open
+  rotate: true
+  xy: 1169, 353
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_hand_near_3_open
+  rotate: true
+  xy: 1169, 353
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_hand_near_3_open
+  rotate: true
+  xy: 1169, 353
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Template/Template_hand_near_3_open
+  rotate: true
+  xy: 1169, 353
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_leg_lower_far
+  rotate: true
+  xy: 429, 1004
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_leg_lower_near_2
+  rotate: true
+  xy: 429, 1004
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_leg_lower_near_1
+  rotate: true
+  xy: 592, 1003
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_leg_upper_far
+  rotate: true
+  xy: 896, 1276
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_leg_upper_near
+  rotate: true
+  xy: 1409, 1347
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_machineGun_clip
+  rotate: false
+  xy: 1926, 829
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_machineGun_clip
+  rotate: false
+  xy: 1926, 829
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_machineGun_clip
+  rotate: false
+  xy: 1926, 829
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_machineGun_clip
+  rotate: false
+  xy: 1926, 829
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_neck
+  rotate: true
+  xy: 597, 1372
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_torso
+  rotate: true
+  xy: 1746, 1752
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_waist
+  rotate: false
+  xy: 1560, 225
+  size: 140, 106
+  orig: 140, 106
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_arm_lower_far
+  rotate: false
+  xy: 1916, 512
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_arm_lower_near
+  rotate: true
+  xy: 68, 2009
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_foot_far_1
+  rotate: false
+  xy: 1545, 1338
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_foot_near_1
+  rotate: false
+  xy: 1545, 1338
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_foot_far_2_bent
+  rotate: false
+  xy: 654, 900
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_foot_near_2_bent
+  rotate: false
+  xy: 654, 900
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_hand_far_1_fistBack
+  rotate: false
+  xy: 1303, 1692
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_hand_near_1_fistBack
+  rotate: false
+  xy: 1303, 1692
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_hand_far_2_fistPalm
+  rotate: false
+  xy: 1405, 1687
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_hand_near_2_fistPalm
+  rotate: false
+  xy: 1405, 1687
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_leg_lower_far
+  rotate: true
+  xy: 755, 998
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_leg_lower_near_2
+  rotate: true
+  xy: 755, 998
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_leg_lower_near_1
+  rotate: true
+  xy: 1329, 968
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_leg_upper_far
+  rotate: true
+  xy: 1032, 1270
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_leg_upper_near
+  rotate: true
+  xy: 1707, 1336
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_neck
+  rotate: true
+  xy: 713, 1370
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_torso
+  rotate: true
+  xy: 1848, 1752
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_waist
+  rotate: false
+  xy: 1702, 199
+  size: 140, 106
+  orig: 140, 106
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_arm_lower_far
+  rotate: false
+  xy: 1282, 459
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_arm_lower_near
+  rotate: false
+  xy: 918, 985
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_foot_far_1
+  rotate: false
+  xy: 2, 1293
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_foot_near_1
+  rotate: false
+  xy: 2, 1293
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_foot_far_2_bent
+  rotate: false
+  xy: 807, 887
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_foot_near_2_bent
+  rotate: false
+  xy: 807, 887
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_hand_far_1_fistBack
+  rotate: false
+  xy: 1507, 1682
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_hand_near_1_fistBack
+  rotate: false
+  xy: 1507, 1682
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_hand_far_2_fistPalm
+  rotate: false
+  xy: 1609, 1681
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_hand_near_2_fistPalm
+  rotate: false
+  xy: 1609, 1681
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_leg_lower_far
+  rotate: true
+  xy: 1611, 953
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_leg_lower_near_2
+  rotate: true
+  xy: 1611, 953
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_leg_lower_near_1
+  rotate: true
+  xy: 1774, 953
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_leg_upper_far
+  rotate: true
+  xy: 1168, 1259
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_leg_upper_near
+  rotate: true
+  xy: 164, 1293
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_neck
+  rotate: true
+  xy: 922, 1365
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_torso
+  rotate: true
+  xy: 2, 1718
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_waist
+  rotate: false
+  xy: 2, 191
+  size: 140, 106
+  orig: 140, 106
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_arm_lower_far
+  rotate: false
+  xy: 1412, 452
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_arm_lower_near
+  rotate: true
+  xy: 131, 2009
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_foot_far_1
+  rotate: false
+  xy: 300, 1288
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_foot_near_1
+  rotate: false
+  xy: 300, 1288
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_foot_far_2_bent
+  rotate: false
+  xy: 960, 881
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_foot_near_2_bent
+  rotate: false
+  xy: 960, 881
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_hand_far_1_fistBack
+  rotate: false
+  xy: 1711, 1672
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_hand_near_1_fistBack
+  rotate: false
+  xy: 1711, 1672
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_hand_far_2_fistPalm
+  rotate: false
+  xy: 1813, 1672
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_hand_near_2_fistPalm
+  rotate: false
+  xy: 1813, 1672
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_leg_lower_far
+  rotate: true
+  xy: 2, 919
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_leg_lower_near_2
+  rotate: true
+  xy: 2, 919
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_leg_lower_near_1
+  rotate: true
+  xy: 165, 908
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_leg_upper_far
+  rotate: true
+  xy: 1304, 1258
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_leg_upper_near
+  rotate: true
+  xy: 462, 1284
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_neck
+  rotate: true
+  xy: 1131, 1359
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_torso
+  rotate: true
+  xy: 104, 1718
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_waist
+  rotate: false
+  xy: 1844, 191
+  size: 140, 106
+  orig: 140, 106
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_arm_lower_far
+  rotate: false
+  xy: 517, 287
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_arm_lower_near
+  rotate: false
+  xy: 264, 405
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_hand_far_1_fistBack
+  rotate: false
+  xy: 1768, 1590
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_hand_far_2_fistPalm
+  rotate: false
+  xy: 1872, 1588
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_hand_far_3_open
+  rotate: false
+  xy: 1543, 339
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_hand_near_3_open
+  rotate: false
+  xy: 1543, 339
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_hand_near_1_fistBack
+  rotate: false
+  xy: 95, 1550
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_hand_near_2_fistPalm
+  rotate: false
+  xy: 199, 1549
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_leg_lower_near_1
+  rotate: true
+  xy: 1266, 770
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_neck
+  rotate: false
+  xy: 1961, 1897
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_arm_lower_far
+  rotate: true
+  xy: 460, 2001
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_arm_lower_near
+  rotate: true
+  xy: 822, 1959
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_arm_upper_far
+  rotate: true
+  xy: 712, 1908
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_arm_upper_near
+  rotate: true
+  xy: 804, 1907
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_foot_far_1
+  rotate: false
+  xy: 1749, 1957
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_foot_far_2_bent
+  rotate: false
+  xy: 61, 1866
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_foot_near_1
+  rotate: false
+  xy: 887, 1959
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_foot_near_2_bent
+  rotate: false
+  xy: 142, 1863
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_gun
+  rotate: false
+  xy: 615, 1541
+  size: 201, 80
+  orig: 201, 80
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_gun
+  rotate: false
+  xy: 615, 1541
+  size: 201, 80
+  orig: 201, 80
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_gun
+  rotate: false
+  xy: 615, 1541
+  size: 201, 80
+  orig: 201, 80
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_gun
+  rotate: false
+  xy: 615, 1541
+  size: 201, 80
+  orig: 201, 80
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_gun
+  rotate: false
+  xy: 615, 1541
+  size: 201, 80
+  orig: 201, 80
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_gun
+  rotate: false
+  xy: 615, 1541
+  size: 201, 80
+  orig: 201, 80
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_gun
+  rotate: false
+  xy: 615, 1541
+  size: 201, 80
+  orig: 201, 80
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_gun
+  rotate: false
+  xy: 615, 1541
+  size: 201, 80
+  orig: 201, 80
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_gun_shoot
+  rotate: false
+  xy: 416, 1101
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_gun_shoot
+  rotate: false
+  xy: 416, 1101
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_gun_shoot
+  rotate: false
+  xy: 416, 1101
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_gun_shoot
+  rotate: false
+  xy: 416, 1101
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_gun_shoot
+  rotate: false
+  xy: 416, 1101
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_gun_shoot
+  rotate: false
+  xy: 416, 1101
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_gun_shoot
+  rotate: false
+  xy: 416, 1101
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_gun_shoot
+  rotate: false
+  xy: 416, 1101
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_hand_1_fistBack
+  rotate: false
+  xy: 1700, 2000
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_hand_2_fistPalm
+  rotate: false
+  xy: 182, 1966
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_hand_3_open
+  rotate: false
+  xy: 1835, 1898
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_leg_lower_far
+  rotate: true
+  xy: 1447, 1836
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_leg_lower_far_guide
+  rotate: true
+  xy: 1945, 1999
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_leg_lower_near_2_guide
+  rotate: true
+  xy: 1945, 1999
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_leg_lower_near_1
+  rotate: true
+  xy: 1538, 1834
+  size: 66, 102
+  orig: 66, 102
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_leg_lower_near_1_guide
+  rotate: true
+  xy: 2, 1969
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_leg_lower_near_2
+  rotate: true
+  xy: 1642, 1832
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_leg_upper_far
+  rotate: true
+  xy: 98, 1969
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_leg_upper_near
+  rotate: true
+  xy: 98, 1969
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_machineGun
+  rotate: false
+  xy: 106, 1381
+  size: 219, 81
+  orig: 219, 81
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_machineGun
+  rotate: false
+  xy: 106, 1381
+  size: 219, 81
+  orig: 219, 81
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_machineGun
+  rotate: false
+  xy: 106, 1381
+  size: 219, 81
+  orig: 219, 81
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_machineGun
+  rotate: false
+  xy: 106, 1381
+  size: 219, 81
+  orig: 219, 81
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_machineGun
+  rotate: false
+  xy: 106, 1381
+  size: 219, 81
+  orig: 219, 81
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_machineGun
+  rotate: false
+  xy: 106, 1381
+  size: 219, 81
+  orig: 219, 81
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_machineGun
+  rotate: false
+  xy: 106, 1381
+  size: 219, 81
+  orig: 219, 81
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_machineGun
+  rotate: false
+  xy: 106, 1381
+  size: 219, 81
+  orig: 219, 81
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_machineGun_clip
+  rotate: true
+  xy: 65, 1923
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_machineGun_clip
+  rotate: true
+  xy: 65, 1923
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_machineGun_clip
+  rotate: true
+  xy: 65, 1923
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_machineGun_clip
+  rotate: true
+  xy: 65, 1923
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_machineGun_clip
+  rotate: true
+  xy: 65, 1923
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_machineGun_clip
+  rotate: true
+  xy: 65, 1923
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_machineGun_clip
+  rotate: true
+  xy: 65, 1923
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_machineGun_clip
+  rotate: true
+  xy: 65, 1923
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_machineGun_shoot
+  rotate: false
+  xy: 327, 1376
+  size: 268, 81
+  orig: 268, 81
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_machineGun_shoot
+  rotate: false
+  xy: 327, 1376
+  size: 268, 81
+  orig: 268, 81
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_machineGun_shoot
+  rotate: false
+  xy: 327, 1376
+  size: 268, 81
+  orig: 268, 81
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_machineGun_shoot
+  rotate: false
+  xy: 327, 1376
+  size: 268, 81
+  orig: 268, 81
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_machineGun_shoot
+  rotate: false
+  xy: 327, 1376
+  size: 268, 81
+  orig: 268, 81
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_machineGun_shoot
+  rotate: false
+  xy: 327, 1376
+  size: 268, 81
+  orig: 268, 81
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_machineGun_shoot
+  rotate: false
+  xy: 327, 1376
+  size: 268, 81
+  orig: 268, 81
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_machineGun_shoot
+  rotate: false
+  xy: 327, 1376
+  size: 268, 81
+  orig: 268, 81
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_neck
+  rotate: false
+  xy: 230, 2006
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_pistol
+  rotate: false
+  xy: 1843, 1323
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_pistol
+  rotate: false
+  xy: 1843, 1323
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_pistol
+  rotate: false
+  xy: 1843, 1323
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_pistol
+  rotate: false
+  xy: 1843, 1323
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_pistol
+  rotate: false
+  xy: 1843, 1323
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_pistol
+  rotate: false
+  xy: 1843, 1323
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_pistol
+  rotate: false
+  xy: 1843, 1323
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_pistol
+  rotate: false
+  xy: 1843, 1323
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_pistol_shoot
+  rotate: false
+  xy: 278, 1005
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_pistol_shoot
+  rotate: false
+  xy: 278, 1005
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_pistol_shoot
+  rotate: false
+  xy: 278, 1005
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_pistol_shoot
+  rotate: false
+  xy: 278, 1005
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_pistol_shoot
+  rotate: false
+  xy: 278, 1005
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_pistol_shoot
+  rotate: false
+  xy: 278, 1005
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_pistol_shoot
+  rotate: false
+  xy: 278, 1005
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_pistol_shoot
+  rotate: false
+  xy: 278, 1005
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_sword_1
+  rotate: true
+  xy: 519, 2001
+  size: 36, 313
+  orig: 36, 313
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_torso
+  rotate: true
+  xy: 2, 1551
+  size: 85, 91
+  orig: 85, 91
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_waist
+  rotate: false
+  xy: 1232, 1775
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_arm_lower_far
+  rotate: false
+  xy: 1200, 972
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_arm_lower_near
+  rotate: false
+  xy: 807, 783
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_foot_far_1
+  rotate: false
+  xy: 598, 1282
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_foot_near_1
+  rotate: false
+  xy: 598, 1282
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_foot_far_2_bent
+  rotate: false
+  xy: 1113, 874
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_foot_near_2_bent
+  rotate: false
+  xy: 1113, 874
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_hand_far_1_fistBack
+  rotate: false
+  xy: 1915, 1670
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_hand_near_1_fistBack
+  rotate: false
+  xy: 1915, 1670
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_hand_far_2_fistPalm
+  rotate: false
+  xy: 2, 1638
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_hand_near_2_fistPalm
+  rotate: false
+  xy: 2, 1638
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_hand_far_3_open
+  rotate: true
+  xy: 1937, 934
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_hand_near_3_open
+  rotate: true
+  xy: 1937, 934
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_leg_lower_far
+  rotate: true
+  xy: 328, 907
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_leg_lower_near_2
+  rotate: true
+  xy: 328, 907
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_leg_lower_near_1
+  rotate: true
+  xy: 491, 906
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_leg_upper_far
+  rotate: true
+  xy: 1440, 1249
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_leg_upper_near
+  rotate: true
+  xy: 760, 1281
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_neck
+  rotate: false
+  xy: 1360, 1904
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_arm_lower_far
+  rotate: false
+  xy: 768, 272
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_arm_lower_near
+  rotate: false
+  xy: 395, 404
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_foot_far_1
+  rotate: false
+  xy: 330, 1194
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_foot_near_1
+  rotate: false
+  xy: 330, 1194
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_foot_far_2_bent
+  rotate: false
+  xy: 652, 700
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_foot_near_2_bent
+  rotate: false
+  xy: 652, 700
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_hand_far_1_fistBack
+  rotate: false
+  xy: 303, 1549
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_hand_far_2_fistPalm
+  rotate: false
+  xy: 407, 1546
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_hand_near_1_fistBack
+  rotate: false
+  xy: 511, 1542
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_hand_near_2_fistPalm
+  rotate: false
+  xy: 818, 1539
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_leg_lower_far
+  rotate: true
+  xy: 1431, 762
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_leg_lower_near_2
+  rotate: true
+  xy: 1431, 762
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_leg_lower_near_1
+  rotate: true
+  xy: 1596, 755
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_leg_upper_far
+  rotate: true
+  xy: 140, 1107
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_leg_upper_near
+  rotate: true
+  xy: 278, 1103
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_waist
+  rotate: false
+  xy: 576, 172
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_arm_lower_far
+  rotate: true
+  xy: 834, 2001
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_arm_lower_near
+  rotate: true
+  xy: 973, 1959
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_arm_upper_far
+  rotate: true
+  xy: 896, 1907
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_arm_upper_near
+  rotate: true
+  xy: 896, 1907
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_foot_far_1
+  rotate: false
+  xy: 1038, 1959
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_foot_far_2_bent
+  rotate: false
+  xy: 223, 1863
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_foot_near_2_bent
+  rotate: false
+  xy: 223, 1863
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_foot_near_1
+  rotate: false
+  xy: 1124, 1959
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_hand_1_fistBack
+  rotate: false
+  xy: 1749, 2000
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_hand_2_fistPalm
+  rotate: false
+  xy: 394, 1962
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_hand_3_open
+  rotate: false
+  xy: 2, 1867
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_leg_lower_far
+  rotate: true
+  xy: 1733, 1832
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_leg_lower_near_1
+  rotate: true
+  xy: 1824, 1829
+  size: 66, 102
+  orig: 66, 102
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_leg_lower_near_2
+  rotate: true
+  xy: 1928, 1829
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_leg_upper_far
+  rotate: true
+  xy: 226, 1966
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_leg_upper_near
+  rotate: true
+  xy: 226, 1966
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_neck
+  rotate: false
+  xy: 267, 2006
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_sword_1
+  rotate: true
+  xy: 893, 2001
+  size: 36, 313
+  orig: 36, 313
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_sword_1
+  rotate: true
+  xy: 893, 2001
+  size: 36, 313
+  orig: 36, 313
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_sword_1
+  rotate: true
+  xy: 893, 2001
+  size: 36, 313
+  orig: 36, 313
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_sword_1
+  rotate: true
+  xy: 893, 2001
+  size: 36, 313
+  orig: 36, 313
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_torso
+  rotate: false
+  xy: 1874, 1413
+  size: 85, 91
+  orig: 85, 91
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_waist
+  rotate: false
+  xy: 1302, 1774
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_arm_lower_far
+  rotate: true
+  xy: 1208, 2001
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_arm_lower_near
+  rotate: true
+  xy: 1210, 1959
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_arm_upper_far
+  rotate: true
+  xy: 988, 1907
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_arm_upper_near
+  rotate: true
+  xy: 988, 1907
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_foot_far_1
+  rotate: false
+  xy: 1275, 1959
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_foot_near_1
+  rotate: false
+  xy: 1275, 1959
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_foot_far_2_bent
+  rotate: false
+  xy: 304, 1859
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_foot_near_2_bent
+  rotate: false
+  xy: 304, 1859
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_hand_1_fistBack
+  rotate: false
+  xy: 1798, 2000
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_hand_2_fistPalm
+  rotate: false
+  xy: 690, 1960
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_hand_3_open
+  rotate: false
+  xy: 385, 1858
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_leg_lower_far
+  rotate: true
+  xy: 2, 1798
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_leg_lower_near_2
+  rotate: true
+  xy: 2, 1798
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_leg_lower_near_1
+  rotate: true
+  xy: 93, 1795
+  size: 66, 102
+  orig: 66, 102
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_leg_upper_far
+  rotate: true
+  xy: 310, 1966
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_leg_upper_near
+  rotate: true
+  xy: 310, 1966
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_neck
+  rotate: false
+  xy: 304, 2006
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_torso
+  rotate: false
+  xy: 1961, 1391
+  size: 85, 91
+  orig: 85, 91
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_waist
+  rotate: false
+  xy: 1372, 1772
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_arm_lower_far
+  rotate: true
+  xy: 1267, 2001
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_arm_lower_near
+  rotate: true
+  xy: 1361, 1959
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_arm_upper_far
+  rotate: true
+  xy: 1080, 1907
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_arm_upper_near
+  rotate: true
+  xy: 1080, 1907
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_foot_far_1
+  rotate: false
+  xy: 1426, 1959
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_foot_near_1
+  rotate: false
+  xy: 1426, 1959
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_foot_far_2_bent
+  rotate: false
+  xy: 444, 1858
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_foot_near_2_bent
+  rotate: false
+  xy: 444, 1858
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_hand_1_fistBack
+  rotate: false
+  xy: 1847, 2000
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_hand_2_fistPalm
+  rotate: false
+  xy: 734, 1960
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_hand_3_open
+  rotate: false
+  xy: 525, 1858
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_leg_lower_far
+  rotate: true
+  xy: 197, 1795
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_leg_lower_near_1
+  rotate: true
+  xy: 379, 1790
+  size: 66, 102
+  orig: 66, 102
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_leg_lower_near_2
+  rotate: true
+  xy: 288, 1791
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_leg_upper_far
+  rotate: true
+  xy: 438, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_leg_upper_near
+  rotate: true
+  xy: 438, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_neck
+  rotate: false
+  xy: 341, 2006
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_torso
+  rotate: true
+  xy: 829, 1369
+  size: 85, 91
+  orig: 85, 91
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_waist
+  rotate: false
+  xy: 1534, 1764
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_arm_lower_far
+  rotate: true
+  xy: 1326, 2001
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_arm_lower_near
+  rotate: true
+  xy: 1512, 1959
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_arm_upper_far
+  rotate: true
+  xy: 1172, 1907
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_arm_upper_near
+  rotate: true
+  xy: 1172, 1907
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_foot_far_1
+  rotate: false
+  xy: 1577, 1959
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_foot_far_2_bent
+  rotate: false
+  xy: 710, 1851
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_foot_near_2_bent
+  rotate: false
+  xy: 710, 1851
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_foot_near_1
+  rotate: false
+  xy: 1663, 1958
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_hand_1_fistBack
+  rotate: false
+  xy: 1896, 2000
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_hand_2_fistPalm
+  rotate: false
+  xy: 778, 1960
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_hand_3_open
+  rotate: false
+  xy: 584, 1858
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_leg_lower_far
+  rotate: true
+  xy: 483, 1790
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_leg_lower_near_1
+  rotate: true
+  xy: 574, 1787
+  size: 66, 102
+  orig: 66, 102
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_leg_lower_near_2
+  rotate: true
+  xy: 678, 1783
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_leg_upper_far
+  rotate: true
+  xy: 522, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_leg_upper_near
+  rotate: true
+  xy: 522, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_neck
+  rotate: false
+  xy: 378, 2006
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_torso
+  rotate: true
+  xy: 1038, 1361
+  size: 85, 91
+  orig: 85, 91
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_waist
+  rotate: false
+  xy: 1604, 1762
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_arm_lower_far
+  rotate: false
+  xy: 900, 264
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_arm_lower_far
+  rotate: false
+  xy: 900, 264
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_arm_lower_near
+  rotate: false
+  xy: 645, 394
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_arm_lower_near
+  rotate: false
+  xy: 645, 394
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_foot_far_1
+  rotate: false
+  xy: 494, 1192
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_foot_near_1
+  rotate: false
+  xy: 494, 1192
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_foot_far_1
+  rotate: false
+  xy: 494, 1192
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_foot_near_1
+  rotate: false
+  xy: 494, 1192
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_foot_far_1
+  rotate: false
+  xy: 494, 1192
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_foot_near_1
+  rotate: false
+  xy: 494, 1192
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_foot_far_1
+  rotate: false
+  xy: 494, 1192
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_foot_near_1
+  rotate: false
+  xy: 494, 1192
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_foot_far_1
+  rotate: false
+  xy: 494, 1192
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_foot_far_2_bent
+  rotate: false
+  xy: 2, 619
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_foot_near_2_bent
+  rotate: false
+  xy: 2, 619
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_foot_far_2_bent
+  rotate: false
+  xy: 2, 619
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_foot_near_2_bent
+  rotate: false
+  xy: 2, 619
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_foot_far_2_bent
+  rotate: false
+  xy: 2, 619
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_foot_near_2_bent
+  rotate: false
+  xy: 2, 619
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_foot_far_2_bent
+  rotate: false
+  xy: 2, 619
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_foot_near_2_bent
+  rotate: false
+  xy: 2, 619
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_hand_far_1_fistBack
+  rotate: false
+  xy: 922, 1538
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_hand_far_2_fistPalm
+  rotate: false
+  xy: 1026, 1534
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_hand_near_2_fistPalm
+  rotate: false
+  xy: 1026, 1534
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_hand_far_3_open
+  rotate: false
+  xy: 1662, 333
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_hand_far_3_open
+  rotate: false
+  xy: 1662, 333
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_hand_near_3_open
+  rotate: false
+  xy: 1662, 333
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_hand_near_1_fistBack
+  rotate: false
+  xy: 1130, 1530
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_hand_near_3_open
+  rotate: false
+  xy: 1781, 307
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_leg_lower_far
+  rotate: true
+  xy: 1761, 755
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_leg_lower_near_1
+  rotate: true
+  xy: 157, 710
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_leg_lower_near_2
+  rotate: true
+  xy: 322, 709
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_leg_upper_far
+  rotate: true
+  xy: 652, 1100
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_leg_upper_near
+  rotate: true
+  xy: 790, 1095
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_neck
+  rotate: false
+  xy: 643, 1855
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_waist
+  rotate: false
+  xy: 720, 162
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_arm_lower_far
+  rotate: false
+  xy: 1032, 259
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_arm_lower_far
+  rotate: false
+  xy: 1032, 259
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_arm_lower_near
+  rotate: false
+  xy: 776, 379
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_arm_lower_near
+  rotate: false
+  xy: 776, 379
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_hand_far_1_fistBack
+  rotate: false
+  xy: 1234, 1528
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_hand_far_1_fistBack
+  rotate: false
+  xy: 1234, 1528
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_hand_far_2_fistPalm
+  rotate: false
+  xy: 1338, 1523
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_hand_far_3_open
+  rotate: false
+  xy: 2, 301
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_hand_near_3_open
+  rotate: false
+  xy: 2, 301
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_hand_far_3_open
+  rotate: false
+  xy: 2, 301
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_hand_near_3_open
+  rotate: false
+  xy: 2, 301
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_hand_near_1_fistBack
+  rotate: false
+  xy: 1442, 1518
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_hand_near_1_fistBack
+  rotate: false
+  xy: 1442, 1518
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_hand_near_2_fistPalm
+  rotate: false
+  xy: 1546, 1517
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_leg_lower_far
+  rotate: true
+  xy: 487, 708
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_leg_lower_near_2
+  rotate: true
+  xy: 487, 708
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_leg_lower_near_1
+  rotate: true
+  xy: 807, 683
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_leg_upper_far
+  rotate: true
+  xy: 928, 1089
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_leg_upper_far
+  rotate: true
+  xy: 928, 1089
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_leg_upper_near
+  rotate: true
+  xy: 1066, 1077
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_leg_upper_near
+  rotate: true
+  xy: 1066, 1077
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_neck
+  rotate: false
+  xy: 791, 1850
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_neck
+  rotate: false
+  xy: 791, 1850
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_waist
+  rotate: false
+  xy: 864, 154
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_waist
+  rotate: false
+  xy: 864, 154
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_waist
+  rotate: false
+  xy: 864, 154
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_hand_far_2_fistPalm
+  rotate: false
+  xy: 1650, 1508
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_hand_near_2_fistPalm
+  rotate: false
+  xy: 1754, 1508
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_leg_lower_far
+  rotate: true
+  xy: 972, 676
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_leg_lower_near_2
+  rotate: true
+  xy: 972, 676
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_leg_lower_near_1
+  rotate: true
+  xy: 1137, 671
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_foot_far_2_bent
+  rotate: false
+  xy: 652, 600
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_foot_near_2_bent
+  rotate: false
+  xy: 652, 600
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_hand_far_1_fistBack
+  rotate: false
+  xy: 1858, 1506
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_hand_far_2_fistPalm
+  rotate: true
+  xy: 1962, 1484
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_hand_near_1_fistBack
+  rotate: false
+  xy: 2, 1468
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_hand_near_2_fistPalm
+  rotate: false
+  xy: 106, 1467
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_leg_lower_far
+  rotate: true
+  xy: 1302, 663
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_leg_lower_near_2
+  rotate: true
+  xy: 1302, 663
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_leg_lower_near_1
+  rotate: true
+  xy: 1467, 656
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_leg_upper_far
+  rotate: true
+  xy: 1204, 1076
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_leg_upper_near
+  rotate: true
+  xy: 1342, 1067
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_neck
+  rotate: false
+  xy: 858, 1850
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_arm_lower_far
+  rotate: false
+  xy: 1164, 246
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_arm_lower_near
+  rotate: false
+  xy: 907, 371
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_foot_near_1
+  rotate: false
+  xy: 658, 1191
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_hand_far_1_fistBack
+  rotate: false
+  xy: 210, 1467
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_hand_far_2_fistPalm
+  rotate: false
+  xy: 314, 1464
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_hand_far_3_open
+  rotate: false
+  xy: 649, 282
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_hand_near_3_open
+  rotate: false
+  xy: 649, 282
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_hand_near_1_fistBack
+  rotate: false
+  xy: 418, 1460
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_hand_near_2_fistPalm
+  rotate: false
+  xy: 522, 1459
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_leg_lower_far
+  rotate: true
+  xy: 1632, 656
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_leg_lower_near_1
+  rotate: true
+  xy: 157, 611
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_leg_lower_near_2
+  rotate: true
+  xy: 322, 610
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_leg_upper_far
+  rotate: true
+  xy: 1480, 1065
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_leg_upper_near
+  rotate: true
+  xy: 1618, 1051
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_neck
+  rotate: false
+  xy: 925, 1850
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_waist
+  rotate: false
+  xy: 1008, 149
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_arm_lower_far
+  rotate: false
+  xy: 1296, 238
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_arm_lower_near
+  rotate: false
+  xy: 1038, 366
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_foot_far_1
+  rotate: false
+  xy: 822, 1186
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_foot_far_2_bent
+  rotate: false
+  xy: 2, 519
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_foot_near_1
+  rotate: false
+  xy: 2, 2036
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_foot_near_2_bent
+  rotate: false
+  xy: 2, 2036
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_hand_far_1_fistBack
+  rotate: false
+  xy: 626, 1459
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_hand_far_2_fistPalm
+  rotate: false
+  xy: 730, 1457
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_hand_near_2_fistPalm
+  rotate: false
+  xy: 730, 1457
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_hand_far_3_open
+  rotate: false
+  xy: 1296, 126
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_hand_near_3_open
+  rotate: false
+  xy: 1296, 126
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_hand_near_1_fistBack
+  rotate: false
+  xy: 834, 1456
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_leg_lower_far
+  rotate: true
+  xy: 487, 609
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_leg_lower_near_1
+  rotate: true
+  xy: 807, 584
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_leg_lower_near_2
+  rotate: true
+  xy: 972, 577
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_leg_upper_far
+  rotate: true
+  xy: 1756, 1050
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_leg_upper_near
+  rotate: true
+  xy: 1894, 1050
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_neck
+  rotate: false
+  xy: 992, 1850
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_waist
+  rotate: false
+  xy: 1152, 136
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+Template/Template_arm_lower_far
+  rotate: false
+  xy: 1428, 232
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+Template/Template_arm_lower_near
+  rotate: false
+  xy: 1281, 353
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+Template/Template_foot_far_1
+  rotate: false
+  xy: 986, 1180
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+Template/Template_foot_far_2_bent
+  rotate: false
+  xy: 652, 500
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+Template/Template_foot_near_1
+  rotate: false
+  xy: 1564, 1156
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+Template/Template_foot_near_2_bent
+  rotate: false
+  xy: 972, 477
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+Template/Template_hand_far_1_fistBack
+  rotate: false
+  xy: 938, 1452
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Template/Template_hand_far_2_fistPalm
+  rotate: false
+  xy: 1042, 1448
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Template/Template_hand_near_1_fistBack
+  rotate: false
+  xy: 1146, 1446
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Template/Template_hand_near_2_fistPalm
+  rotate: false
+  xy: 1250, 1441
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Template/Template_leg_lower_far
+  rotate: true
+  xy: 1137, 572
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+Template/Template_leg_lower_near_1
+  rotate: true
+  xy: 1302, 564
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+Template/Template_leg_lower_near_2
+  rotate: true
+  xy: 1467, 557
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+Template/Template_leg_upper_far
+  rotate: true
+  xy: 2, 1021
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+Template/Template_leg_upper_near
+  rotate: true
+  xy: 140, 1016
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+Template/Template_neck
+  rotate: false
+  xy: 1059, 1850
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+Template/Template_waist
+  rotate: false
+  xy: 1415, 122
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_foot_far_2_bent
+  rotate: false
+  xy: 1127, 472
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_foot_near_2_bent
+  rotate: false
+  xy: 1127, 472
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_hand_far_1_fistBack
+  rotate: false
+  xy: 1354, 1436
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_hand_far_2_fistPalm
+  rotate: false
+  xy: 1458, 1435
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_hand_near_2_fistPalm
+  rotate: false
+  xy: 1562, 1426
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_hand_near_3_open
+  rotate: false
+  xy: 1559, 113
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_leg_lower_far
+  rotate: true
+  xy: 1632, 557
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_leg_lower_near_2
+  rotate: true
+  xy: 1632, 557
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_leg_lower_near_1
+  rotate: true
+  xy: 157, 512
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_neck
+  rotate: false
+  xy: 1126, 1850
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_arm_lower_far
+  rotate: true
+  xy: 1835, 1955
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_arm_lower_near
+  rotate: true
+  xy: 1835, 1955
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_arm_upper_far
+  rotate: true
+  xy: 1048, 1781
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_arm_upper_near
+  rotate: true
+  xy: 769, 1782
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_foot_far_1
+  rotate: false
+  xy: 172, 1920
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_foot_near_1
+  rotate: false
+  xy: 172, 1920
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_foot_far_2_bent
+  rotate: false
+  xy: 1425, 1904
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_foot_near_2_bent
+  rotate: false
+  xy: 1425, 1904
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_hand_1_fistBack
+  rotate: false
+  xy: 114, 1923
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_hand_2_fistPalm
+  rotate: false
+  xy: 660, 1912
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_hand_2_fistPalm
+  rotate: false
+  xy: 660, 1912
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_hand_2_fistPalm
+  rotate: false
+  xy: 660, 1912
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_hand_3_open
+  rotate: false
+  xy: 1379, 1842
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_head_1
+  rotate: false
+  xy: 1678, 70
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_head_2_injured
+  rotate: false
+  xy: 1003, 15
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_head_3_happy
+  rotate: false
+  xy: 1146, 2
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_head_4_wideEyes
+  rotate: false
+  xy: 1821, 62
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_head_5_sad
+  rotate: false
+  xy: 2, 59
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_leg_lower_far
+  rotate: true
+  xy: 206, 1714
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_leg_lower_near_2
+  rotate: true
+  xy: 206, 1714
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_leg_lower_near_1
+  rotate: true
+  xy: 305, 1713
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_leg_upper_far
+  rotate: true
+  xy: 606, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_leg_upper_near
+  rotate: true
+  xy: 606, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_leg_upper_far
+  rotate: true
+  xy: 606, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_leg_upper_near
+  rotate: true
+  xy: 606, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_leg_upper_far
+  rotate: true
+  xy: 606, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_leg_upper_near
+  rotate: true
+  xy: 606, 1961
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_neck
+  rotate: false
+  xy: 415, 2003
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_neck
+  rotate: false
+  xy: 415, 2003
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_neck
+  rotate: false
+  xy: 415, 2003
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_sword_1
+  rotate: true
+  xy: 1385, 2001
+  size: 36, 313
+  orig: 36, 313
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_sword_1
+  rotate: true
+  xy: 1385, 2001
+  size: 36, 313
+  orig: 36, 313
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_sword_1
+  rotate: true
+  xy: 1385, 2001
+  size: 36, 313
+  orig: 36, 313
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_torso
+  rotate: true
+  xy: 1950, 1750
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_waist
+  rotate: true
+  xy: 1193, 1847
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_arm_lower_far
+  rotate: true
+  xy: 1898, 1954
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_arm_lower_near
+  rotate: true
+  xy: 1898, 1954
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_arm_upper_far
+  rotate: true
+  xy: 1140, 1778
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_arm_upper_near
+  rotate: true
+  xy: 862, 1782
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_foot_far_1
+  rotate: false
+  xy: 265, 1920
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_foot_near_1
+  rotate: false
+  xy: 265, 1920
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_foot_far_2_bent
+  rotate: false
+  xy: 1517, 1904
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_foot_near_2_bent
+  rotate: false
+  xy: 1517, 1904
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_hand_1_fistBack
+  rotate: false
+  xy: 358, 1916
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_hand_3_open
+  rotate: true
+  xy: 1674, 1761
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_hand_3_open
+  rotate: true
+  xy: 1674, 1761
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_head_1
+  rotate: false
+  xy: 145, 59
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_head_4_wideEyes
+  rotate: false
+  xy: 288, 58
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_head_5_sad
+  rotate: false
+  xy: 431, 48
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_leg_lower_far
+  rotate: true
+  xy: 408, 1713
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_leg_lower_near_2
+  rotate: true
+  xy: 408, 1713
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_leg_lower_near_1
+  rotate: true
+  xy: 507, 1710
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_torso
+  rotate: true
+  xy: 911, 1703
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_waist
+  rotate: true
+  xy: 1255, 1845
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_arm_lower_far
+  rotate: true
+  xy: 1961, 1954
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_arm_lower_near
+  rotate: true
+  xy: 2, 1924
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_arm_upper_far
+  rotate: true
+  xy: 1442, 1767
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_arm_upper_near
+  rotate: true
+  xy: 955, 1782
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_foot_far_1
+  rotate: false
+  xy: 416, 1915
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_foot_far_2_bent
+  rotate: false
+  xy: 1609, 1902
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_foot_near_2_bent
+  rotate: false
+  xy: 1609, 1902
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_foot_near_1
+  rotate: false
+  xy: 509, 1915
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_hand_1_fistBack
+  rotate: false
+  xy: 602, 1915
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_head_1
+  rotate: false
+  xy: 574, 43
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_head_4_wideEyes
+  rotate: false
+  xy: 717, 33
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_head_5_sad
+  rotate: false
+  xy: 860, 25
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_leg_lower_far
+  rotate: true
+  xy: 610, 1706
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_leg_lower_near_1
+  rotate: true
+  xy: 709, 1705
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_leg_lower_near_2
+  rotate: true
+  xy: 812, 1705
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_torso
+  rotate: true
+  xy: 1005, 1702
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_waist
+  rotate: true
+  xy: 1317, 1844
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_arm_lower_near
+  rotate: false
+  xy: 1412, 345
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_hand_far_1_fistBack
+  rotate: false
+  xy: 1666, 1426
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_hand_near_1_fistBack
+  rotate: false
+  xy: 1770, 1424
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_hand_near_2_fistPalm
+  rotate: false
+  xy: 2, 1386
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_leg_lower_far
+  rotate: true
+  xy: 322, 511
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_leg_lower_near_1
+  rotate: true
+  xy: 487, 510
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_leg_lower_near_2
+  rotate: true
+  xy: 807, 485
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Assassin/Assassin_gun
+  rotate: false
+  xy: 1729, 371
+  size: 304, 213
+  orig: 304, 213
+  offset: 0, 0
+  index: -1
+Template/Template_gun
+  rotate: false
+  xy: 1729, 371
+  size: 304, 213
+  orig: 304, 213
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_head_1
+  rotate: false
+  xy: 1766, 97
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_machineGun
+  rotate: false
+  xy: 1712, 1369
+  size: 330, 212
+  orig: 330, 212
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_machineGun
+  rotate: false
+  xy: 1712, 1369
+  size: 330, 212
+  orig: 330, 212
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_machineGun
+  rotate: false
+  xy: 1712, 1369
+  size: 330, 212
+  orig: 330, 212
+  offset: 0, 0
+  index: -1
+Template/Template_machineGun
+  rotate: false
+  xy: 1712, 1369
+  size: 330, 212
+  orig: 330, 212
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_sword_1
+  rotate: true
+  xy: 442, 2
+  size: 256, 440
+  orig: 256, 440
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_sword_2_swing
+  rotate: false
+  xy: 442, 1142
+  size: 385, 439
+  orig: 385, 439
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_sword_3_bigSwing
+  rotate: false
+  xy: 2, 1583
+  size: 507, 440
+  orig: 507, 440
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_sword_1
+  rotate: true
+  xy: 1326, 112
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_sword_2_swing
+  rotate: false
+  xy: 829, 757
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_sword_3_bigSwing
+  rotate: true
+  xy: 2, 1076
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_sword_1
+  rotate: false
+  xy: 1473, 370
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_sword_1
+  rotate: false
+  xy: 1473, 370
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_sword_1
+  rotate: false
+  xy: 1473, 370
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_sword_1
+  rotate: false
+  xy: 1473, 370
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_sword_2_swing
+  rotate: false
+  xy: 829, 318
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_sword_2_swing
+  rotate: false
+  xy: 829, 318
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_sword_2_swing
+  rotate: false
+  xy: 829, 318
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_sword_2_swing
+  rotate: false
+  xy: 829, 318
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_sword_3_bigSwing
+  rotate: true
+  xy: 2, 569
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_sword_3_bigSwing
+  rotate: true
+  xy: 2, 569
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_sword_3_bigSwing
+  rotate: true
+  xy: 2, 569
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_sword_3_bigSwing
+  rotate: true
+  xy: 2, 569
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_sword_3_bigSwing
+  rotate: false
+  xy: 1729, 586
+  size: 307, 297
+  orig: 307, 297
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_sword_3_bigSwing
+  rotate: false
+  xy: 1729, 586
+  size: 307, 297
+  orig: 307, 297
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_sword_3_bigSwing
+  rotate: false
+  xy: 1729, 586
+  size: 307, 297
+  orig: 307, 297
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_sword_3_bigSwing
+  rotate: false
+  xy: 1729, 586
+  size: 307, 297
+  orig: 307, 297
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_sword_1
+  rotate: false
+  xy: 1654, 885
+  size: 254, 438
+  orig: 254, 438
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_sword_2_swing
+  rotate: true
+  xy: 1215, 810
+  size: 384, 437
+  orig: 384, 437
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_sword_3_bigSwing
+  rotate: true
+  xy: 2, 62
+  size: 505, 438
+  orig: 505, 438
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_sword_1
+  rotate: true
+  xy: 884, 60
+  size: 256, 440
+  orig: 256, 440
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_sword_2_swing
+  rotate: false
+  xy: 442, 701
+  size: 385, 439
+  orig: 385, 439
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_sword_3_bigSwing
+  rotate: false
+  xy: 511, 1583
+  size: 507, 440
+  orig: 507, 440
+  offset: 0, 0
+  index: -1
+Template/Template_sword_1
+  rotate: true
+  xy: 1270, 1325
+  size: 256, 440
+  orig: 256, 440
+  offset: 0, 0
+  index: -1
+Template/Template_sword_2_swing
+  rotate: false
+  xy: 442, 260
+  size: 385, 439
+  orig: 385, 439
+  offset: 0, 0
+  index: -1
+Template/Template_sword_3_bigSwing
+  rotate: false
+  xy: 1020, 1583
+  size: 507, 440
+  orig: 507, 440
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_head_2_injured
+  rotate: true
+  xy: 1910, 1226
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_head_3_happy
+  rotate: true
+  xy: 1910, 1083
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_head_2_injured
+  rotate: true
+  xy: 1910, 940
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_sword_1
+  rotate: false
+  xy: 1215, 368
+  size: 256, 440
+  orig: 256, 440
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_sword_2_swing
+  rotate: true
+  xy: 829, 1196
+  size: 385, 439
+  orig: 385, 439
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_sword_3_bigSwing
+  rotate: false
+  xy: 1529, 1583
+  size: 507, 440
+  orig: 507, 440
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Assassin/Assassin_head_2_injured
+  rotate: false
+  xy: 311, 1671
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_head_3_happy
+  rotate: false
+  xy: 585, 1671
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_head_4_wideEyes
+  rotate: false
+  xy: 859, 1671
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_head_5_sad
+  rotate: false
+  xy: 1133, 1671
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_head_1
+  rotate: false
+  xy: 1407, 1671
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_head_2_injured
+  rotate: false
+  xy: 1681, 1671
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_head_3_happy
+  rotate: false
+  xy: 311, 1397
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_head_4_wideEyes
+  rotate: false
+  xy: 2, 1372
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_head_5_sad
+  rotate: false
+  xy: 585, 1397
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_head_1
+  rotate: false
+  xy: 859, 1397
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_head_2_injured
+  rotate: false
+  xy: 1133, 1397
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_head_3_happy
+  rotate: false
+  xy: 1407, 1397
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_head_4_wideEyes
+  rotate: false
+  xy: 1681, 1397
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_head_5_sad
+  rotate: false
+  xy: 276, 1123
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_head_1
+  rotate: false
+  xy: 2, 1098
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_head_2_injured
+  rotate: false
+  xy: 276, 849
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_head_3_happy
+  rotate: false
+  xy: 2, 824
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_head_4_wideEyes
+  rotate: false
+  xy: 276, 575
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_head_5_sad
+  rotate: false
+  xy: 2, 550
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_head_1
+  rotate: false
+  xy: 276, 301
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_head_2_injured
+  rotate: false
+  xy: 2, 276
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_head_3_happy
+  rotate: false
+  xy: 276, 27
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_head_4_wideEyes
+  rotate: false
+  xy: 2, 2
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_head_5_sad
+  rotate: false
+  xy: 550, 1123
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_head_1
+  rotate: false
+  xy: 550, 849
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_head_2_injured
+  rotate: false
+  xy: 550, 575
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_head_3_happy
+  rotate: false
+  xy: 550, 301
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_head_4_wideEyes
+  rotate: false
+  xy: 550, 27
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_head_5_sad
+  rotate: false
+  xy: 824, 1123
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_sword_3_bigSwing
+  rotate: false
+  xy: 2, 1646
+  size: 307, 297
+  orig: 307, 297
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_sword_3_bigSwing
+  rotate: false
+  xy: 2, 1646
+  size: 307, 297
+  orig: 307, 297
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_sword_3_bigSwing
+  rotate: false
+  xy: 2, 1646
+  size: 307, 297
+  orig: 307, 297
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_sword_3_bigSwing
+  rotate: false
+  xy: 2, 1646
+  size: 307, 297
+  orig: 307, 297
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_head_1
+  rotate: false
+  xy: 1098, 1123
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_head_2_injured
+  rotate: false
+  xy: 1372, 1123
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_head_3_happy
+  rotate: false
+  xy: 1646, 1123
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_head_4_wideEyes
+  rotate: false
+  xy: 824, 849
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_head_5_sad
+  rotate: false
+  xy: 824, 575
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_head_1
+  rotate: false
+  xy: 824, 301
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_head_2_injured
+  rotate: false
+  xy: 824, 27
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_head_3_happy
+  rotate: false
+  xy: 1098, 849
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_head_4_wideEyes
+  rotate: false
+  xy: 1372, 849
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_head_5_sad
+  rotate: false
+  xy: 1646, 849
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_head_1
+  rotate: false
+  xy: 1098, 575
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_head_2_injured
+  rotate: false
+  xy: 1098, 301
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_head_3_happy
+  rotate: false
+  xy: 1098, 27
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_head_4_wideEyes
+  rotate: false
+  xy: 1372, 575
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_head_5_sad
+  rotate: false
+  xy: 1646, 575
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_head_1
+  rotate: false
+  xy: 1372, 301
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_head_2_injured
+  rotate: false
+  xy: 1372, 27
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_head_3_happy
+  rotate: false
+  xy: 1646, 301
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_head_4_wideEyes
+  rotate: false
+  xy: 1646, 27
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Assassin/Assassin_arm_upper_far
+  rotate: false
+  xy: 1093, 67
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_arm_upper_near
+  rotate: false
+  xy: 1245, 3
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_gun_shoot
+  rotate: true
+  xy: 1651, 100
+  size: 304, 213
+  orig: 304, 213
+  offset: 0, 0
+  index: -1
+Template/Template_gun_shoot
+  rotate: true
+  xy: 1651, 100
+  size: 304, 213
+  orig: 304, 213
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_machineGun_shoot
+  rotate: false
+  xy: 2, 1834
+  size: 330, 212
+  orig: 330, 212
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_machineGun_shoot
+  rotate: false
+  xy: 2, 1834
+  size: 330, 212
+  orig: 330, 212
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_machineGun_shoot
+  rotate: false
+  xy: 2, 1834
+  size: 330, 212
+  orig: 330, 212
+  offset: 0, 0
+  index: -1
+Template/Template_machineGun_shoot
+  rotate: false
+  xy: 2, 1834
+  size: 330, 212
+  orig: 330, 212
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_pistol
+  rotate: true
+  xy: 1487, 233
+  size: 231, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_pistol
+  rotate: true
+  xy: 1487, 233
+  size: 231, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1
+Template/Template_pistol
+  rotate: true
+  xy: 1487, 233
+  size: 231, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_pistol_shoot
+  rotate: false
+  xy: 822, 33
+  size: 231, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_pistol_shoot
+  rotate: false
+  xy: 822, 33
+  size: 231, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1
+Template/Template_pistol_shoot
+  rotate: false
+  xy: 822, 33
+  size: 231, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1
+Assassin/Assassin_torso
+  rotate: true
+  xy: 1093, 210
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_arm_upper_far
+  rotate: false
+  xy: 1866, 32
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_arm_upper_far
+  rotate: false
+  xy: 1866, 32
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_machineGun
+  rotate: false
+  xy: 276, 1562
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_machineGun_shoot
+  rotate: false
+  xy: 550, 1288
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_pistol
+  rotate: false
+  xy: 2, 32
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_pistol_shoot
+  rotate: true
+  xy: 1487, 2
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_torso
+  rotate: true
+  xy: 1702, 1516
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_torso
+  rotate: true
+  xy: 1702, 1258
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_torso
+  rotate: true
+  xy: 1702, 1000
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_head_1
+  rotate: false
+  xy: 550, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_head_2_injured
+  rotate: false
+  xy: 550, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_head_3_happy
+  rotate: false
+  xy: 550, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_head_4_wideEyes
+  rotate: false
+  xy: 550, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_head_5_sad
+  rotate: false
+  xy: 550, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_machineGun
+  rotate: false
+  xy: 824, 1014
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_machineGun
+  rotate: false
+  xy: 824, 1014
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_machineGun
+  rotate: false
+  xy: 824, 1014
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_machineGun_shoot
+  rotate: false
+  xy: 1098, 740
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_machineGun_shoot
+  rotate: false
+  xy: 1098, 740
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_machineGun_shoot
+  rotate: false
+  xy: 1098, 740
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_machineGun_shoot
+  rotate: false
+  xy: 1098, 740
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_pistol
+  rotate: true
+  xy: 1866, 175
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_pistol
+  rotate: true
+  xy: 1866, 175
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_pistol
+  rotate: true
+  xy: 1866, 175
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_pistol
+  rotate: true
+  xy: 1866, 175
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_head_1
+  rotate: false
+  xy: 822, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_head_2_injured
+  rotate: false
+  xy: 822, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_head_3_happy
+  rotate: false
+  xy: 822, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_head_4_wideEyes
+  rotate: false
+  xy: 822, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_head_5_sad
+  rotate: false
+  xy: 822, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_head_1
+  rotate: false
+  xy: 1094, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_head_2_injured
+  rotate: false
+  xy: 1094, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_head_3_happy
+  rotate: false
+  xy: 1094, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_head_4_wideEyes
+  rotate: false
+  xy: 1094, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_head_5_sad
+  rotate: false
+  xy: 1094, 468
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_machineGun
+  rotate: false
+  xy: 1366, 466
+  size: 328, 210
+  orig: 328, 210
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_head_1
+  rotate: false
+  xy: 1696, 406
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_head_2_injured
+  rotate: false
+  xy: 1696, 406
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_head_3_happy
+  rotate: false
+  xy: 1696, 406
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_head_4_wideEyes
+  rotate: false
+  xy: 1696, 406
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_head_5_sad
+  rotate: false
+  xy: 1696, 406
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_sword_2_swing
+  rotate: false
+  xy: 1321, 146
+  size: 164, 318
+  orig: 164, 318
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_sword_2_swing
+  rotate: false
+  xy: 1321, 146
+  size: 164, 318
+  orig: 164, 318
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_sword_2_swing
+  rotate: false
+  xy: 1321, 146
+  size: 164, 318
+  orig: 164, 318
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_sword_2_swing
+  rotate: false
+  xy: 1321, 146
+  size: 164, 318
+  orig: 164, 318
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_sword_2_swing
+  rotate: false
+  xy: 1321, 146
+  size: 164, 318
+  orig: 164, 318
+  offset: 0, 0
+  index: -1
+TurboTed-Blue/TurboTed-Blue_sword_2_swing
+  rotate: false
+  xy: 1321, 146
+  size: 164, 318
+  orig: 164, 318
+  offset: 0, 0
+  index: -1
+TurboTed-Green/TurboTed-Green_sword_2_swing
+  rotate: false
+  xy: 1321, 146
+  size: 164, 318
+  orig: 164, 318
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_sword_2_swing
+  rotate: false
+  xy: 1321, 146
+  size: 164, 318
+  orig: 164, 318
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_head_1
+  rotate: false
+  xy: 550, 196
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_head_2_injured
+  rotate: false
+  xy: 2, 465
+  size: 271, 271
+  orig: 271, 271
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_head_3_happy
+  rotate: false
+  xy: 275, 195
+  size: 269, 269
+  orig: 269, 269
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_head_4_wideEyes
+  rotate: false
+  xy: 2, 194
+  size: 269, 269
+  orig: 269, 269
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_head_5_sad
+  rotate: false
+  xy: 822, 197
+  size: 269, 269
+  orig: 269, 269
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_head_5_sad
+  rotate: false
+  xy: 334, 1774
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_head_1
+  rotate: false
+  xy: 2, 1560
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_head_2_injured
+  rotate: false
+  xy: 606, 1500
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_head_3_happy
+  rotate: false
+  xy: 608, 1774
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_head_4_wideEyes
+  rotate: false
+  xy: 2, 1286
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_head_5_sad
+  rotate: false
+  xy: 276, 1288
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_gun
+  rotate: false
+  xy: 1704, 1833
+  size: 304, 213
+  orig: 304, 213
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_gun_shoot
+  rotate: false
+  xy: 1702, 785
+  size: 304, 213
+  orig: 304, 213
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_head_1
+  rotate: false
+  xy: 880, 1500
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_head_2_injured
+  rotate: false
+  xy: 882, 1774
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_head_3_happy
+  rotate: false
+  xy: 880, 1226
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_head_4_wideEyes
+  rotate: false
+  xy: 2, 1012
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_head_5_sad
+  rotate: false
+  xy: 276, 1014
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_pistol
+  rotate: false
+  xy: 546, 32
+  size: 231, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_pistol_shoot
+  rotate: false
+  xy: 273, 31
+  size: 231, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1
+Template/Template_head_1
+  rotate: false
+  xy: 550, 1014
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Template/Template_head_2_injured
+  rotate: false
+  xy: 1154, 1500
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Template/Template_head_3_happy
+  rotate: false
+  xy: 1156, 1774
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Template/Template_head_4_wideEyes
+  rotate: false
+  xy: 1154, 1226
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Template/Template_head_5_sad
+  rotate: false
+  xy: 1154, 952
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_head_1
+  rotate: false
+  xy: 276, 740
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_head_2_injured
+  rotate: false
+  xy: 2, 738
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_head_3_happy
+  rotate: false
+  xy: 550, 740
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_head_4_wideEyes
+  rotate: false
+  xy: 824, 740
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_head_5_sad
+  rotate: false
+  xy: 1428, 1500
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_head_1
+  rotate: false
+  xy: 1430, 1774
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_head_2_injured
+  rotate: false
+  xy: 1428, 1226
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_head_3_happy
+  rotate: false
+  xy: 1428, 952
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_head_4_wideEyes
+  rotate: false
+  xy: 1428, 678
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_head_5_sad
+  rotate: false
+  xy: 276, 466
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+
+skeleton5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BeardyBuck/BeardyBuck_arm_upper_near
+  rotate: false
+  xy: 902, 850
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_gun
+  rotate: false
+  xy: 689, 494
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+BeardyBuck/BeardyBuck_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_gun_shoot
+  rotate: false
+  xy: 993, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+BuckMatthews/BuckMatthews_arm_upper_near
+  rotate: false
+  xy: 1054, 850
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_arm_upper_far
+  rotate: false
+  xy: 1206, 844
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+ChuckMatthews/ChuckMatthews_arm_upper_near
+  rotate: false
+  xy: 1358, 844
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_arm_upper_far
+  rotate: false
+  xy: 1356, 987
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_arm_upper_near
+  rotate: false
+  xy: 1506, 987
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_gun
+  rotate: false
+  xy: 1297, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_gun
+  rotate: false
+  xy: 1297, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_gun
+  rotate: false
+  xy: 1297, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_gun
+  rotate: false
+  xy: 1297, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_gun_shoot
+  rotate: false
+  xy: 1601, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_gun_shoot
+  rotate: false
+  xy: 1601, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_gun_shoot
+  rotate: false
+  xy: 1601, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_gun_shoot
+  rotate: false
+  xy: 1601, 488
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Commander-Darkstrike/Commander-Darkstrike_pistol_shoot
+  rotate: false
+  xy: 458, 547
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_pistol_shoot
+  rotate: false
+  xy: 458, 547
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_pistol_shoot
+  rotate: false
+  xy: 458, 547
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_pistol_shoot
+  rotate: false
+  xy: 458, 547
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_arm_upper_far
+  rotate: false
+  xy: 1656, 987
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Commander-Firestrike/Commander-Firestrike_arm_upper_near
+  rotate: false
+  xy: 1806, 987
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_arm_upper_far
+  rotate: false
+  xy: 2, 852
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Commander-Icestrike/Commander-Icestrike_arm_upper_near
+  rotate: false
+  xy: 152, 852
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_arm_upper_far
+  rotate: false
+  xy: 302, 852
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Commander-Stonestrike/Commander-Stonestrike_arm_upper_near
+  rotate: false
+  xy: 452, 852
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_arm_upper_far
+  rotate: false
+  xy: 1510, 844
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_arm_upper_near
+  rotate: false
+  xy: 1662, 844
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+DuckMatthews/DuckMatthews_torso
+  rotate: false
+  xy: 1159, 260
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_head_1
+  rotate: false
+  xy: 145, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_head_2_injured
+  rotate: false
+  xy: 280, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_head_3_happy
+  rotate: true
+  xy: 415, 1128
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+Dummy/Dummy_head_4_wideEyes
+  rotate: false
+  xy: 552, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_arm_upper_far
+  rotate: false
+  xy: 602, 852
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_arm_upper_near
+  rotate: false
+  xy: 752, 852
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_gun
+  rotate: false
+  xy: 2, 353
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_gun_shoot
+  rotate: false
+  xy: 306, 334
+  size: 302, 211
+  orig: 302, 211
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_torso
+  rotate: false
+  xy: 903, 262
+  size: 254, 224
+  orig: 254, 224
+  offset: 0, 0
+  index: -1
+Fletch/Fletch_waist
+  rotate: false
+  xy: 610, 271
+  size: 291, 221
+  orig: 291, 221
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_arm_upper_far
+  rotate: false
+  xy: 1814, 844
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_arm_upper_near
+  rotate: false
+  xy: 2, 709
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+GabrielCaine/GabrielCaine_torso
+  rotate: false
+  xy: 1417, 260
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_head_1
+  rotate: false
+  xy: 687, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_head_2_injured
+  rotate: false
+  xy: 822, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_head_3_happy
+  rotate: true
+  xy: 957, 1128
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_head_4_wideEyes
+  rotate: false
+  xy: 1094, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Blue/MetalMan-Blue_head_5_sad
+  rotate: false
+  xy: 1229, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_head_1
+  rotate: false
+  xy: 1364, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_head_2_injured
+  rotate: false
+  xy: 1499, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_head_3_happy
+  rotate: true
+  xy: 1634, 1128
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_head_4_wideEyes
+  rotate: false
+  xy: 1771, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Green/MetalMan-Green_head_5_sad
+  rotate: false
+  xy: 1906, 1128
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_head_1
+  rotate: false
+  xy: 2, 994
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_head_2_injured
+  rotate: false
+  xy: 137, 993
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_head_3_happy
+  rotate: true
+  xy: 272, 993
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_head_4_wideEyes
+  rotate: false
+  xy: 409, 993
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan-Red/MetalMan-Red_head_5_sad
+  rotate: false
+  xy: 544, 993
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_head_1
+  rotate: false
+  xy: 679, 993
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_head_2_injured
+  rotate: false
+  xy: 814, 993
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_head_3_happy
+  rotate: true
+  xy: 949, 993
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_head_4_wideEyes
+  rotate: false
+  xy: 1086, 993
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MetalMan/MetalMan_head_5_sad
+  rotate: false
+  xy: 1221, 993
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_arm_upper_far
+  rotate: false
+  xy: 154, 709
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_arm_upper_near
+  rotate: false
+  xy: 306, 709
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost-02/PamelaFrost-02_torso
+  rotate: false
+  xy: 1675, 260
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_arm_upper_far
+  rotate: false
+  xy: 458, 709
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_arm_upper_far
+  rotate: false
+  xy: 458, 709
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_arm_upper_near
+  rotate: false
+  xy: 610, 709
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_arm_upper_near
+  rotate: false
+  xy: 610, 709
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_arm_upper_near
+  rotate: false
+  xy: 610, 709
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost-03/PamelaFrost-03_torso
+  rotate: false
+  xy: 2, 125
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+PamelaFrost-04/PamelaFrost-04_torso
+  rotate: false
+  xy: 260, 106
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_arm_upper_far
+  rotate: false
+  xy: 762, 707
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_arm_upper_near
+  rotate: false
+  xy: 914, 707
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost-05/PamelaFrost-05_torso
+  rotate: false
+  xy: 518, 43
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_arm_upper_far
+  rotate: false
+  xy: 1066, 701
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+PamelaFrost/PamelaFrost_torso
+  rotate: false
+  xy: 776, 34
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_arm_upper_far
+  rotate: false
+  xy: 1218, 701
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_arm_upper_near
+  rotate: false
+  xy: 1370, 701
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+StumpyPete/StumpyPete_torso
+  rotate: false
+  xy: 1034, 32
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+Template/Template_arm_upper_far
+  rotate: false
+  xy: 1522, 701
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+Template/Template_arm_upper_near
+  rotate: false
+  xy: 1674, 701
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+Template/Template_torso
+  rotate: false
+  xy: 1292, 32
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_arm_upper_far
+  rotate: false
+  xy: 1826, 701
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_arm_upper_near
+  rotate: false
+  xy: 2, 566
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+TruckMatthews/TruckMatthews_torso
+  rotate: false
+  xy: 1550, 32
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+TurboTed/TurboTed_head_3_happy
+  rotate: false
+  xy: 2, 1129
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_arm_upper_far
+  rotate: false
+  xy: 154, 566
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_arm_upper_near
+  rotate: false
+  xy: 306, 566
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+YoungBuck/YoungBuck_torso
+  rotate: true
+  xy: 1808, 2
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1

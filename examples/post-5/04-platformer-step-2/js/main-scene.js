@@ -40,6 +40,11 @@ export default class MainScene extends Phaser.Scene {
     );
 
     this.load.atlas("emoji", "../assets/atlases/emoji.png", "../assets/atlases/emoji.json");
+
+    this.load.setPath('../assets/heroes/')
+    this.load.spine('skeleton', 'skeleton.json', ['skeleton.atlas'], true)
+    // this.spine.isWebGL = false;
+    console.log(this.data.scene.spine)
   }
 
   create() {
@@ -117,6 +122,10 @@ export default class MainScene extends Phaser.Scene {
       fill: "#000000"
     });
     help.setScrollFactor(0).setDepth(1000);
+
+    const hero = this.add.spine(x, y, 'skeleton', 'idle', true).setScale(0.15);
+    hero.setSkin(null)
+    hero.setSkinByName('Dummy')
   }
 
   onPlayerCollide({ gameObjectB }) {
@@ -156,3 +165,4 @@ export default class MainScene extends Phaser.Scene {
     }
   }
 }
+

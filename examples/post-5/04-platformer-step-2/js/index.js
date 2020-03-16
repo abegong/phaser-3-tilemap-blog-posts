@@ -8,6 +8,8 @@
  */
 
 import MainScene from "./main-scene.js";
+// import * as SpinePlugin from './SpinePlugin.min.js';
+import * as SpinePlugin from './NewSpinePlugin.js';
 
 const config = {
   type: Phaser.AUTO,
@@ -24,9 +26,16 @@ const config = {
         plugin: PhaserMatterCollisionPlugin, // The plugin class
         key: "matterCollision", // Where to store in Scene.Systems, e.g. scene.sys.matterCollision
         mapping: "matterCollision" // Where to store in the Scene, e.g. scene.matterCollision
+      },
+      {
+        plugin: window.SpinePlugin,
+        key: 'SpinePlugin',
+        // sceneKey: 'spine'
+        mapping: "spine",
       }
     ]
   }
 };
 
 const game = new Phaser.Game(config);
+window.game = game;
