@@ -5,22 +5,27 @@ export default class Player {
     this.scene = scene;
 
     // Create the animations we need from the player spritesheet
-    const anims = scene.anims;
-    anims.create({
-      key: "player-idle",
-      frames: anims.generateFrameNumbers("player", { start: 0, end: 3 }),
-      frameRate: 3,
-      repeat: -1
-    });
-    anims.create({
-      key: "player-run",
-      frames: anims.generateFrameNumbers("player", { start: 8, end: 15 }),
-      frameRate: 12,
-      repeat: -1
-    });
+    // const anims = scene.anims;
+    // anims.create({
+    //   key: "player-idle",
+    //   frames: anims.generateFrameNumbers("player", { start: 0, end: 3 }),
+    //   frameRate: 3,
+    //   repeat: -1
+    // });
+    // anims.create({
+    //   key: "player-run",
+    //   frames: anims.generateFrameNumbers("player", { start: 8, end: 15 }),
+    //   frameRate: 12,
+    //   repeat: -1
+    // });
+  
+    this.spine_char = scene.add.spine(x, y, 'skeleton', 'idle', true).setScale(0.15);
+    this.spine_char.setSkin(null)
+    this.spine_char.setSkinByName('DuckMatthews');
 
     // Create the physics-based sprite that we will move around and animate
     this.sprite = scene.matter.add.sprite(0, 0, "player", 0);
+    this.sprite.alpha = .01; // FIXME: The old sprite isn't gone, just hidden
 
     // The player's body is going to be a compound body that looks something like this:
     //
@@ -44,7 +49,10 @@ export default class Player {
     // player is blocked by a wall or standing on the ground.
 
     const { Body, Bodies } = Phaser.Physics.Matter.Matter; // Native Matter modules
-    const { width: w, height: h } = this.sprite;
+    // const { width: w, height: h } = this.sprite;
+    const w = 32;
+    const h = 52;
+    console.log( w, h );
     const mainBody = Bodies.rectangle(0, 0, w * 0.6, h, { chamfer: { radius: 10 } });
     this.sensors = {
       bottom: Bodies.rectangle(0, h * 0.5, w * 0.25, 2, { isSensor: true }),
@@ -85,7 +93,7 @@ export default class Player {
     });
 
     // Track the keys
-    const { LEFT, RIGHT, UP, A, D, W } = Phaser.Input.Keyboard.KeyCodes;
+    const { LEFT, RIGHT, UP, A, D, W, SPACE } = Phaser.Input.Keyboard.KeyCodes;
     this.leftInput = new MultiKey(scene, [LEFT, A]);
     this.rightInput = new MultiKey(scene, [RIGHT, D]);
     this.jumpInput = new MultiKey(scene, [UP, W]);
@@ -140,10 +148,11 @@ export default class Player {
     // --- Move the player horizontally ---
 
     // Adjust the movement so that the player is slower in the air
-    const moveForce = isOnGround ? 0.01 : 0.005;
+    const moveForce = isOnGround ? 0.02 : 0.005;
 
     if (isLeftKeyDown) {
       sprite.setFlipX(true);
+      this.spine_char.setScale(-0.15, 0.15)
 
       // Don't let the player push things left if they in the air
       if (!(isInAir && this.isTouching.left)) {
@@ -151,6 +160,7 @@ export default class Player {
       }
     } else if (isRightKeyDown) {
       sprite.setFlipX(false);
+      this.spine_char.setScale(0.15, 0.15)
 
       // Don't let the player push things right if they in the air
       if (!(isInAir && this.isTouching.right)) {
@@ -178,13 +188,28 @@ export default class Player {
       });
     }
 
+    this.spine_char.setPosition(this.sprite.x, this.sprite.y+52);
+
     // Update the animation/texture based on the state of the player's state
     if (isOnGround) {
-      if (sprite.body.force.x !== 0) sprite.anims.play("player-run", true);
-      else sprite.anims.play("player-idle", true);
+      if (sprite.body.force.x !== 0) {
+        if( this.spine_char.getCurrentAnimation().name != "run"){
+          this.spine_char.play("run", true);  
+        }
+      }
+      else {
+        // sprite.anims.play("player-idle", true);
+        if( this.spine_char.getCurrentAnimation().name != "idle"){
+          this.spine_char.play("idle", true);
+        }
+      }
     } else {
-      sprite.anims.stop();
-      sprite.setTexture("player", 10);
+      // sprite.anims.stop();
+      // sprite.setTexture("player", 10);
+
+      if( this.spine_char.getCurrentAnimation().name != "jump2"){
+        this.spine_char.play("jump2", false);
+      }
     }
   }
 

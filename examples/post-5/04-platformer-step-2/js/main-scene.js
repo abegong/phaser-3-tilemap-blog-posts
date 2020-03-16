@@ -40,6 +40,11 @@ export default class MainScene extends Phaser.Scene {
     );
 
     this.load.atlas("emoji", "../assets/atlases/emoji.png", "../assets/atlases/emoji.json");
+
+    this.load.setPath('../assets/heroes/')
+    this.load.spine('skeleton', 'skeleton.json', ['skeleton.atlas'], true)
+    // this.spine.isWebGL = false;
+    console.log(this.data.scene.spine)
   }
 
   create() {
@@ -83,7 +88,7 @@ export default class MainScene extends Phaser.Scene {
       // Tiled origin for coordinate system is (0, 1), but we want (0.5, 0.5)
       this.matter.add
         .image(x + width / 2, y - height / 2, "block")
-        .setBody({ shape: "rectangle", density: 0.001 });
+        .setBody({ shape: "rectangle", density: 0.01 });
     });
 
     // Create platforms at the point locations in the "Platform Locations" layer created in Tiled
@@ -117,6 +122,112 @@ export default class MainScene extends Phaser.Scene {
       fill: "#000000"
     });
     help.setScrollFactor(0).setDepth(1000);
+
+
+    var heroes = [];
+    const hero_animations = [
+      'pistolNearIdle',
+      'crouchIdle',
+      'jump2',
+      'pistolFarIdle',
+      'jump',
+      'pushIdle',
+      'climbDown',
+      'walk2',
+      'machineGunShoot',
+      'skid',
+      'meleeSwing1-fullBody',
+      'climbIdle',
+      'wallIdle',
+      'gunIdle',
+      'punch1',
+      'floorIdle',
+      'swimIdle',
+      'machineGunIdle',
+      'walk',
+      'machineGunReload',
+      'edgeClimb',
+      'blockHit',
+      'meleeIdle',
+      'jump3',
+      'swim',
+      'hit1',
+      'pistolNearShoot',
+      'run',
+      'wallJump',
+      'edgeIdle',
+      'gunShoot',
+      'meleeSwing3-fullBody',
+      'climbUp',
+      'push',
+      'run2',
+      'gunReload1',
+      'meleeSwing2-fullBody',
+      'gunReload2',
+      'floorGetUp',
+      'falling',
+      'celebration',
+      'reset',
+      'pull',
+      'land',
+      'hitBig',
+      'pistolFarShoot',
+      'default',
+      'roll',
+      'pullIdle',
+      'punch2',
+      'punch3',
+      'crouchWalk',
+      'idle',
+      'meleeSwing1',
+      'idleTired',
+      'meleeSwing3',
+      'meleeSwing2',
+      'block',
+    ];
+    const hero_skins = [
+      'Assassin',
+      'BeardyBuck',
+      'BuckMatthews',
+      'ChuckMatthews',
+      'Commander-Darkstrike',
+      'Commander-Firestrike',
+      'Commander-Icestrike',
+      'Commander-Stonestrike',
+      'DuckMatthews',
+      'Dummy',
+      'Dummy_leg_guide',
+      'Fletch',
+      'GabrielCaine',
+      'MetalMan',
+      'MetalMan-Blue',
+      'MetalMan-Green',
+      'MetalMan-Red',
+      'PamelaFrost',
+      'PamelaFrost-02',
+      'PamelaFrost-03',
+      'PamelaFrost-04',
+      'PamelaFrost-05',
+      'StumpyPete',
+      'Template',
+      'TruckMatthews',
+      'TurboTed',
+      'TurboTed-Blue',
+      'TurboTed-Green',
+      'YoungBuck'
+    ];
+    // for(var i=0; i<5; i++){
+    //   var skin = hero_skins[Math.floor(Math.random()*hero_skins.length)];
+    //   var animation = hero_animations[Math.floor(Math.random()*hero_animations.length)];
+
+    //   var hero = this.add.spine(
+    //     x+Math.round(Math.random()*2000),
+    //     y+Math.round(Math.random()*500-200),
+    //     'skeleton', animation, true
+    //   ).setScale(0.15);
+    //   hero.setSkin(null)
+    //   hero.setSkinByName(skin);
+    // }
   }
 
   onPlayerCollide({ gameObjectB }) {
@@ -142,7 +253,7 @@ export default class MainScene extends Phaser.Scene {
     this.unsubscribeCelebrate();
 
     // Drop some heart-eye emojis, of course
-    for (let i = 0; i < 35; i++) {
+    for (let i = 0; i < 100; i++) {
       const x = this.player.sprite.x + Phaser.Math.RND.integerInRange(-50, 50);
       const y = this.player.sprite.y - 150 + Phaser.Math.RND.integerInRange(-10, 10);
       this.matter.add
@@ -156,3 +267,4 @@ export default class MainScene extends Phaser.Scene {
     }
   }
 }
+
