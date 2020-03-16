@@ -22,6 +22,11 @@ export default class Player {
     // Create the physics-based sprite that we will move around and animate
     this.sprite = scene.matter.add.sprite(0, 0, "player", 0);
 
+    // this.sprite = scene.add.spine(0, 0, 'skeleton', 'idle', true).setScale(0.15);
+    // this.sprite.setSkin(null)
+    // this.sprite.setSkinByName('Dummy')
+
+
     // The player's body is going to be a compound body that looks something like this:
     //
     //                  A = main body

@@ -123,9 +123,111 @@ export default class MainScene extends Phaser.Scene {
     });
     help.setScrollFactor(0).setDepth(1000);
 
-    const hero = this.add.spine(x, y, 'skeleton', 'idle', true).setScale(0.15);
-    hero.setSkin(null)
-    hero.setSkinByName('Dummy')
+
+    var heroes = [];
+    const hero_animations = [
+      'pistolNearIdle',
+      'crouchIdle',
+      'jump2',
+      'pistolFarIdle',
+      'jump',
+      'pushIdle',
+      'climbDown',
+      'walk2',
+      'machineGunShoot',
+      'skid',
+      'meleeSwing1-fullBody',
+      'climbIdle',
+      'wallIdle',
+      'gunIdle',
+      'punch1',
+      'floorIdle',
+      'swimIdle',
+      'machineGunIdle',
+      'walk',
+      'machineGunReload',
+      'edgeClimb',
+      'blockHit',
+      'meleeIdle',
+      'jump3',
+      'swim',
+      'hit1',
+      'pistolNearShoot',
+      'run',
+      'wallJump',
+      'edgeIdle',
+      'gunShoot',
+      'meleeSwing3-fullBody',
+      'climbUp',
+      'push',
+      'run2',
+      'gunReload1',
+      'meleeSwing2-fullBody',
+      'gunReload2',
+      'floorGetUp',
+      'falling',
+      'celebration',
+      'reset',
+      'pull',
+      'land',
+      'hitBig',
+      'pistolFarShoot',
+      'default',
+      'roll',
+      'pullIdle',
+      'punch2',
+      'punch3',
+      'crouchWalk',
+      'idle',
+      'meleeSwing1',
+      'idleTired',
+      'meleeSwing3',
+      'meleeSwing2',
+      'block',
+    ];
+    const hero_skins = [
+      'Assassin',
+      'BeardyBuck',
+      'BuckMatthews',
+      'ChuckMatthews',
+      'Commander-Darkstrike',
+      'Commander-Firestrike',
+      'Commander-Icestrike',
+      'Commander-Stonestrike',
+      'DuckMatthews',
+      'Dummy',
+      'Dummy_leg_guide',
+      'Fletch',
+      'GabrielCaine',
+      'MetalMan',
+      'MetalMan-Blue',
+      'MetalMan-Green',
+      'MetalMan-Red',
+      'PamelaFrost',
+      'PamelaFrost-02',
+      'PamelaFrost-03',
+      'PamelaFrost-04',
+      'PamelaFrost-05',
+      'StumpyPete',
+      'Template',
+      'TruckMatthews',
+      'TurboTed',
+      'TurboTed-Blue',
+      'TurboTed-Green',
+      'YoungBuck'
+    ];
+    for(var i=0; i<50; i++){
+      var skin = hero_skins[Math.floor(Math.random()*hero_skins.length)];
+      var animation = hero_animations[Math.floor(Math.random()*hero_animations.length)];
+
+      var hero = this.add.spine(
+        x+Math.round(Math.random()*2000),
+        y+Math.round(Math.random()*500-200),
+        'skeleton', animation, true
+      ).setScale(0.15);
+      hero.setSkin(null)
+      hero.setSkinByName(skin);
+    }
   }
 
   onPlayerCollide({ gameObjectB }) {
